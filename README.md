@@ -1,8 +1,8 @@
 # BIBLIOTHECA
 
- ## SMART LIBRARY MANAGEMENT SYSTEM
+## SMART LIBRARY MANAGEMENT SYSTEM
 
- ## INTRODUCTION
+## INTRODUCTION
 
    Bibliotheca is a smart and customizable library management platform which helps different types of libraries manage books,borrowing,returns and other library services efficiently.
 
@@ -141,7 +141,7 @@
 
 **Fine Calculation:** Automatically calculate fines for late book returns.
 
-**Online Book Reservation: ** Allow users to reserve books before visiting the library.
+**Online Book Reservation:** Allow users to reserve books before visiting the library.
 
 **Online Book Purchase:** Provide a secure option to purchase books online.
 
