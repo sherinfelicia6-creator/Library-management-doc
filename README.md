@@ -29,36 +29,36 @@
 
 ### LIBRARIAN:
 
- ** Library type: ** (College/School/Private/Government)
+ **Library type:** (College/School/Private/Government)
 
- ** Library Details: ** Add the library name and location
+ **Library Details:** Add the library name and location
  
- ** Book categories: ** Manage different book categories
+ **Book categories:** Manage different book categories
  
- ** Blocks or sections: ** To Organize the books.
+ **Blocks or sections:** To Organize the books.
  
- ** Book availability: ** Ensure the availability status of the book.
+ **Book availability:** Ensure the availability status of the book.
  
- ** Reader management: ** Manage the registered library users record.
+ **Reader management:** Manage the registered library users record.
  
- ** Add Remove Update: ** To add,remove or update a book. 
+ **Add Remove Update:** To add,remove or update a book. 
 
 ### LIBRARY USER:
 
 
-** Search Book: ** Search box for users to search what book they need.
+**Search Book:** Search box for users to search what book they need.
 
-** Select book category: ** Allows user to browse different categories.
+**Select book category:** Allows user to browse different categories.
 
-** Book availability: ** Allows user to view the availability of the book.
+**Book availability:** Allows user to view the availability of the book.
 
-** Location of books: ** Helps user to find the book easier.
+**Location of books:** Helps user to find the book easier.
 
-** Borrow and confirm borrowing: ** To confirm the book to be borrowed.
+**Borrow and confirm borrowing:** To confirm the book to be borrowed.
 
-** Return Date: ** To ensure the book is returned at the correct time to avoid extra charge.
+**Return Date:** To ensure the book is returned at the correct time to avoid extra charge.
 
-** Purchase books: ** To purchase the book if online purchase is available
+**Purchase books:** To purchase the book if online purchase is available
 
 ## TECHNOLOGIES USED:
 
@@ -135,16 +135,16 @@
 
 ## FUTURE ENHANCEMENTS
 
-** QR Code / Barcode Scanning: ** Scan books quickly using QR codes or barcodes. 
+**QR Code / Barcode Scanning:** Scan books quickly using QR codes or barcodes. 
 
-** Online Notifications: ** Send reminders for due dates, returns, and overdue books.
+**Online Notifications:** Send reminders for due dates, returns, and overdue books.
 
-** Fine Calculation: ** Automatically calculate fines for late book returns.
+**Fine Calculation:** Automatically calculate fines for late book returns.
 
-** Online Book Reservation: ** Allow users to reserve books before visiting the library.
+**Online Book Reservation: ** Allow users to reserve books before visiting the library.
 
-** Online Book Purchase: ** Provide a secure option to purchase books online.
+**Online Book Purchase:** Provide a secure option to purchase books online.
 
-** Mobile Application: ** Develop a mobile app for easier access to Bibliotheca.
+**Mobile Application:** Develop a mobile app for easier access to Bibliotheca.
 
-** AI-Based Recommendations: ** Recommend books to users based on their interests and previous borrowing history.
+**AI-Based Recommendations:** Recommend books to users based on their interests and previous borrowing history.
